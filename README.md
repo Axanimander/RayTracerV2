@@ -7,5 +7,7 @@ Better, much slower, and slightly less original ray tracer
 * Run with WSL and have a working x-window server
 * This is what I tested it with
 
-# Screenshot 
+# Screenshots
 ![rays](/res/rays2.png)
+
+![rays2](/res/rays3.png)
