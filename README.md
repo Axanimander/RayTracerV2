@@ -8,4 +8,4 @@ Better, much slower, and slightly less original ray tracer
 * This is what I tested it with
 
 # Screenshot 
-![rays1](/res/rays.png)
+![rays](/res/rays2.png)
